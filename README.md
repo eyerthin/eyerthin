@@ -24,6 +24,7 @@
 
 ### HOW TO CONTACT ME
 :e-mail:eyerthin@outlook.com
+*Any discussion is welcome*
 <!--
 **eyerthin/eyerthin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
