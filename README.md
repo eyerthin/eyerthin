@@ -19,7 +19,7 @@
 >  
 
 
-day to day！
+day to day！  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=eyerthin&show_icons=true&include_all_commits=true)](https://github.com/eyerthin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyerthin&layout=compact)](https://github.com/eyerthin/github-readme-stats)
 
